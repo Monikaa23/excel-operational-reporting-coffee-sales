@@ -46,5 +46,18 @@ Operations teams often rely on manual Excel reports that are time-consuming, err
 - ETL using Power Query
 - Data modeling
 - KPI development
+
+- ## Process Improvement Approach (Lean Six Sigma – DMAIC)
+
+This project applies Lean Six Sigma thinking to operational reporting challenges using the DMAIC framework:
+
+**Define:** Identified reporting inefficiencies caused by manual data preparation and inconsistent KPI definitions.  
+**Measure:** Established baseline operational metrics including sales, margin, and store-level performance.  
+**Analyze:** Performed trend and variance analysis to identify performance gaps across locations and time periods.  
+**Improve:** Automated data ingestion and KPI calculation using Power Query and Power Pivot to reduce errors and cycle time.  
+**Control:** Delivered standardized dashboards and documented workflows to ensure consistent, repeatable reporting.
+
+This approach ensures data accuracy, reduces reporting waste, and enables scalable decision support.
+
 - Business-ready dashboarding
 
